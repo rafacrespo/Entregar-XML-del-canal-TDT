@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+<channel id="LaSexta.TV">
+<display-name>LaSexta.TV</display-name>
+</channel>
+
+<programme channel="LaSexta.TV" start="20240206025500 +0000" stop="20240206053000 +0000">
+<title>Aruseros</title>
+<desc>Magacine de actualidad en tono de humor</desc>
+<category>Informacion</category>
+<language>es</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MSEXTAP661411"/>
+</programme>
+
+<programme channel="LaSexta.TV" start="20240206025500 +0000" stop="20240206053000 +0000">
+<title>Al Rojo Vivo</title>
+<desc>Programa de actualidad presentado por Antonio García Ferreras.</desc>
+<category>Informacion</category>
+<language>es</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MSEXTAP3067053"/>
+</programme>
+
+<programme channel="LaSexta.TV" start="20240206025500 +0000" stop="20240206053000 +0000">
+<title>LaSexta Noticias</title>
+<desc>Los informativos de La Sexta 1ª Edición corren a cargo de Helena Resano.</desc>
+<category>Informacion</category>
+<language>es</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MSEXTAP3241102"/>
+</programme>
+
+<programme channel="LaSexta.TV" start="20240206025500 +0000" stop="20240206053000 +0000">
+<title>Sexta Noche</title>
+<desc>El programa laSexta Noche, ahora laSexta Xplica, se emitía todos los sábados en horario nocturno en laSexta</desc>
+<category>Informacion</category>
+<language>es</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MSEXTAP3241104"/>
+</programme>
+</tv>
