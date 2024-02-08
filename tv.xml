@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+<channel id="La1.TV">
+<display-name>La1.TV</display-name>
+</channel>
+
+<programme channel="La1.TV" start="20240206173000 +0000" stop="20240206183000 +0000">
+<title>El cazador</title>
+<desc> Concurso de preguntas y respuestas en el que concursantes anónimos luchan frente a un concursante profesional de la televisión para obtener un gran premio final. En el programa, los cuatro concursantes unirán sus conocimientos para ganar al 'cazador'</desc>
+<category>Entretenimiento</category>
+<language>es</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2070065"/>
+</programme>
+
+<programme channel="La1.TV" start="20240207094000 +0000" stop="20240207130000 +0000">
+<title>Mañaneros</title>
+<desc>Magazín de actualidad conducido por Jaime Cantizano, que tiene el afán de contar temas de interés para el ciudadano, desde la actualidad política a la crónica social.</desc>
+<category>Entretenimiento</category>
+<language>es</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3108161"/>
+</programme>
+
+<programme channel="La1.TV" start="20240207131000 +0000" stop="20240207140000 +0000">
+<title>Ahora o nunca</title>
+<desc>Espacio diario que presume de la riqueza del país y animará al espectador a disfrutar y a conservarlo para garantizar que siga existiendo para los que vengan detrás.</desc>
+<category>Entretenimiento</category>
+<language>es</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3218310"/>
+</programme>
+
+<programme channel="La1.TV" start="20240207193000 +0000" stop="20240207200000 +0000">
+<title>Aquí la Tierra</title>
+<desc>Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.</desc>
+<category>Entretenimiento</category>
+<language>es</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3218312"/>
+</programme>
+</tv>
